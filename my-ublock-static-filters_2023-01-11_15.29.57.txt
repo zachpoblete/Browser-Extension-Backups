@@ -1,0 +1,47 @@
+! piazza.com
+piazza.com###contribution_wrapper
+
+! beta.dw.com
+beta.dw.com##.FGHoO.hXzcCw.sc-lgqmxq.sc-fiKUUL.advertisement
+
+! musescore.com
+musescore.com##.js-musescore-hb-728--wrapper._3Aqnn
+
+! saltong.carldegs.com
+saltong.carldegs.com##.css-z9hxn3.chakra-alert
+
+! reddit.com
+!! Block feed
+!##.rpBJOHq2PR60pnwJlUyP0
+##._2lHXa-mLMsRfm1Q5JxgU4r
+    ! Block loading.
+
+!! Block right bar.
+!www.reddit.com##._10wb7d3rGvj56Gcs4IQWL5._1FUNcfOeszr8eruqLxCMcR
+    ! Block right bar.
+www.reddit.com##._10wb7d3rGvj56Gcs4IQWL5._1FUNcfOeszr8eruqLxCMcR > ._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV
+    ! Block Top Communities.
+www.reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
+    ! Block Try Reddit Premium.
+!##div._2vEf-C2keJaBMY9qk_BxVn > ._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV
+    ! Block top divider.
+    ! Breaks Create Post or Community.
+!www.reddit.com##.TmgZY6tDcdErbE5d7E0HJ
+    ! Block Create Post or Community.
+!##._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV._2wqyhtudP4weVGsZdVXJgt
+    ! Block bottom divider.
+www.reddit.com##._3Im6OD67aKo33nql4FpSp_
+    ! Block Recent Posts.
+!www.reddit.com##._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV._2wqyhtudP4weVGsZdVXJgt > ._3RPJ8hHnfFohktLZca18J6
+    ! Block Reddit Info.
+
+!! Block promoted posts
+reddit.com#@#.size-compact.Post:has([class*="promoted"])
+
+! facebook.com
+!! Block feed
+www.facebook.com##.x1mtsufr.x1w9j1nh.x1xfsgkm.xqmdsaz.x1iplk16.x1q0g3np.xozqiw3.x1qjc9v5.xl56j7k.xeuugli.xs83m0k.x1iyjqo2.x78zum5.x1ja2u2z.x1n2onr6.x9f619
+
+! 2022-10-28 https://www.timeshighereducation.com
+||www.timeshighereducation.com/sites/default/files/styles/the_breaking_news_image_style/public/comms_media_centre_new_new_logo_0.jpg?itok=pjSDuOH4$image
+
