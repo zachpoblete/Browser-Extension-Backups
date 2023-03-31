@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+      <outline text="Bing Search Blog" title="Bing Search Blog" type="rss" 
+            xmlUrl="https://blogs.bing.com/search/feed" htmlUrl="https://blogs.bing.com/search/feed"/>
+</body>
+</opml>
