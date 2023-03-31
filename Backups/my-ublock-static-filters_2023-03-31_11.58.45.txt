@@ -1,47 +1,94 @@
-! piazza.com
-piazza.com###contribution_wrapper
+!= =============================================================================
+!= 1337x.to
+!= =============================================================================
 
-! beta.dw.com
+1337x.to##li:nth-of-type(9)
+
+!= =============================================================================
+!= beta.dw.com
+!= =============================================================================
+
 beta.dw.com##.FGHoO.hXzcCw.sc-lgqmxq.sc-fiKUUL.advertisement
 
-! musescore.com
+!= =============================================================================
+!= facebook.com
+!= =============================================================================
+
+!! Feed
+www.facebook.com##.x1mtsufr.x1w9j1nh.x1xfsgkm.xqmdsaz.x1iplk16.x1q0g3np.xozqiw.x1qjc9v5.xl56j7k.xeuugli.xs83m0k.x1iyjqo2.x78zum5.x1ja2u2z.x1n2onr6.x9f619
+
+!= =============================================================================
+!= github.com
+!= =============================================================================
+
+!! Feed > Explore repositories
+github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.col-lg-4.col-md-3.width-fit.team-left-column > .mb-5 > div
+github.com##.mb-5 > .text-bold.f5
+
+!= =============================================================================
+!= musescore.com
+!= =============================================================================
+
 musescore.com##.js-musescore-hb-728--wrapper._3Aqnn
 
-! saltong.carldegs.com
-saltong.carldegs.com##.css-z9hxn3.chakra-alert
+!= =============================================================================
+!= piazza.com
+!= =============================================================================
 
-! reddit.com
-!! Block feed
-!##.rpBJOHq2PR60pnwJlUyP0
-##._2lHXa-mLMsRfm1Q5JxgU4r
-    ! Block loading.
+piazza.com###contribution_wrapper
 
-!! Block right bar.
+!= =============================================================================
+!= reddit.com
+!= =============================================================================
+
+!! Home feed
+!www.reddit.com##._2OVNlZuUd8L9v0yVECZ2iA._3nSp9cdBpqL13CqjdMr2L_._1OVBBWLtHoSPfGCRaPzpTf
+
+!! Subreddit feed
+!www.reddit.com##.rpBJOHq2PR60pnwJlUyP0
+www.reddit.com##._2lHXa-mLMsRfm1Q5JxgU4r
+    ! Loading
+
+!! Right bar
 !www.reddit.com##._10wb7d3rGvj56Gcs4IQWL5._1FUNcfOeszr8eruqLxCMcR
-    ! Block right bar.
-www.reddit.com##._10wb7d3rGvj56Gcs4IQWL5._1FUNcfOeszr8eruqLxCMcR > ._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV
-    ! Block Top Communities.
-www.reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
-    ! Block Try Reddit Premium.
-!##div._2vEf-C2keJaBMY9qk_BxVn > ._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV
-    ! Block top divider.
-    ! Breaks Create Post or Community.
+    ! Right bar
+!!www.reddit.com##._10wb7d3rGvj56Gcs4IQWL5._1FUNcfOeszr8eruqLxCMcR > ._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV
+    ! Top Communities
+!!www.reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
+    ! Try Reddit Premium
+!www.reddit.com##div._2vEf-C2keJaBMY9qk_BxVn > ._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV
+    ! Top divider
+    ! Create Post or Community
 !www.reddit.com##.TmgZY6tDcdErbE5d7E0HJ
-    ! Block Create Post or Community.
-!##._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV._2wqyhtudP4weVGsZdVXJgt
-    ! Block bottom divider.
-www.reddit.com##._3Im6OD67aKo33nql4FpSp_
-    ! Block Recent Posts.
+    ! Create Post or Community
+!www.reddit.com##._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV._2wqyhtudP4weVGsZdVXJgt
+    ! Bottom divider
+!!www.reddit.com##._3Im6OD67aKo33nql4FpSp_
+    ! Recent Posts
 !www.reddit.com##._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV._2wqyhtudP4weVGsZdVXJgt > ._3RPJ8hHnfFohktLZca18J6
-    ! Block Reddit Info.
+    ! Reddit Info
+!! Back to Top
+!!www.reddit.com##._365FiUZ11efXHV7l7fNp6K._3Tc8YYRhVDX9vlR0XePZfH > .HNozj_dKjQZ59ZsfEegz8._10BQ7pjWbeYP63SAPNS8Ts._2iuoyPiKHN3kfOoeIQalDT
 
 !! Block promoted posts
 reddit.com#@#.size-compact.Post:has([class*="promoted"])
 
-! facebook.com
-!! Block feed
-www.facebook.com##.x1mtsufr.x1w9j1nh.x1xfsgkm.xqmdsaz.x1iplk16.x1q0g3np.xozqiw3.x1qjc9v5.xl56j7k.xeuugli.xs83m0k.x1iyjqo2.x78zum5.x1ja2u2z.x1n2onr6.x9f619
+!= =============================================================================
+!= saltong.carldegs.com
+!= =============================================================================
 
-! 2022-10-28 https://www.timeshighereducation.com
+saltong.carldegs.com##.css-z9hxn3.chakra-alert
+
+!= =============================================================================
+!= TikTok
+!= =============================================================================
+
+! You may like
+www.tiktok.com##.ege8lhx5.tiktok-1czmy9n-DivVideoList
+
+!= =============================================================================
+!= timeshighereducation.com
+!= =============================================================================
+
 ||www.timeshighereducation.com/sites/default/files/styles/the_breaking_news_image_style/public/comms_media_centre_new_new_logo_0.jpg?itok=pjSDuOH4$image
 
